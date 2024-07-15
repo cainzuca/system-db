@@ -33,7 +33,7 @@
 
 
 ### Dashboard
-![image](https://github.com/user-attachments/assets/f0db6d63-e0b1-444e-afa2-6c3506fe065c)
+![image](https://github.com/user-attachments/assets/859c2283-938b-4ba9-99e2-d90893381329)
 
 
 ## Pré-requisitos
