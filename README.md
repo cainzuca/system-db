@@ -28,11 +28,11 @@
 
 ## Layout da Aplicação:
 
-# Cadastro
+### Cadastro
 ![Gif BSytem](https://github.com/user-attachments/assets/3b3f2d65-ec31-4ad2-9d54-c14b08c5a9e1)
 
 
-# Dashboard
+### Dashboard
 ![image](https://github.com/user-attachments/assets/f0db6d63-e0b1-444e-afa2-6c3506fe065c)
 
 
